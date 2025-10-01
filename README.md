@@ -46,7 +46,7 @@ It follows a complete analytics workflow — from **data cleaning and modeling**
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](./screenshots/dashboard.png)
+![Sales Dashboard](./screenshots/Dashboard.png)
 
 ---
 
