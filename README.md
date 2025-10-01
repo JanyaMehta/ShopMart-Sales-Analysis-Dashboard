@@ -42,13 +42,6 @@ It follows a complete analytics workflow — from **data cleaning and modeling**
 2. **Open the .pbix file** in Power BI Desktop.
 3. **Explore the interactive dashboard**, slicers, and drill-through features to analyze the data.
 
----
-
-## 📷 Dashboard Preview
-
-![Sales Dashboard](./screenshots/Dashboard.png)
-
----
 
 ## 📈 Business Value
 
@@ -59,4 +52,17 @@ This dashboard empowers business stakeholders to:
 - 🔄 Compare performance **year-over-year** or between **custom date ranges**
 - 💸 Understand **pricing strategies and discount impacts**
 - 📊 Make **data-driven decisions** to optimize product and revenue strategies
+
+  
+
+---
+## 📷 Dashboard Preview
+
+
+
+![Sales Dashboard](./screenshots/Dashboard.png)
+
+---
+
+
 
